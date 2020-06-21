@@ -80,7 +80,7 @@ handleSubmit = (e)=> {
 
 componentDidMount(){
     //random = Math.floor(Math.random() * (this.props.range - 1 + 1) + min)
-console.log(this.state.guessNumber)
+
 }
     render(){
 
